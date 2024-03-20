@@ -1,0 +1,145 @@
+[
+	{
+		"id": 1,
+		"code": "00001",
+		"title": "Reel Huevito",
+		"description": "Beast Red Snake 103 Baitcasting 3 Rulemanes",
+		"price": 150000,
+		"thumbnail": [
+			"\\img\\reel1.webp"
+		],
+		"stock": 20,
+		"status": "True",
+		"category": "reeles"
+	},
+	{
+		"id": 2,
+		"code": "00002",
+		"title": "Caña Caster Black",
+		"description": "Fighter 1.80m Bait Casting 6-12 Lb 8-25g",
+		"price": 1800,
+		"thumbnail": [
+			"\\img\\caña1.webp"
+		],
+		"stock": 18,
+		"status": "True",
+		"category": "cañas"
+	},
+	{
+		"id": 3,
+		"code": "00003",
+		"title": "Reel Frontal",
+		"description": "Caster Havoc 4005 Pesca Variada Río 5 Rulemanes",
+		"price": 1200,
+		"thumbnail": [
+			"\\img\\reel2.webp"
+		],
+		"stock": 12,
+		"status": "True",
+		"category": "categoriaCinco"
+	},
+	{
+		"id": 4,
+		"code": "00004",
+		"title": "Caña Beast Solid",
+		"description": "2.70m Maciza 2 Tramos 15-25 Lb 100-150g",
+		"price": 2000,
+		"thumbnail": [
+			"\\img\\c3.webp"
+		],
+		"stock": 30,
+		"status": "True",
+		"category": "cañas"
+	},
+	{
+		"id": 5,
+		"code": "00005",
+		"title": "Reel Huevito Caster ",
+		"description": "Unlimited Pro 110 Baitcast 10 Rulemanes",
+		"price": 1600,
+		"thumbnail": [
+			"\\img\\r3.webp"
+		],
+		"stock": 16,
+		"status": "True",
+		"category": "reeles"
+	},
+	{
+		"id": 6,
+		"code": "00006",
+		"title": "Caña Caster Takumi",
+		"description": "4.25m 3 Tramos Rotativo Carbono 150-300g",
+		"price": 120110,
+		"thumbnail": [
+			"\\img\\c4.webp"
+		],
+		"stock": 19,
+		"status": "True",
+		"category": "cañas"
+	},
+	{
+		"id": 7,
+		"code": "00007",
+		"title": "Caña Caster Sniper",
+		"description": "3.90m 3 Tramos Lance Costa Mar 100-200g",
+		"price": 133400,
+		"thumbnail": [
+			"\\img\\c5.webp"
+		],
+		"stock": 14,
+		"status": "True",
+		"category": "cañas"
+	},
+	{
+		"id": 8,
+		"code": "00008",
+		"title": "Reel Huevito Caster",
+		"description": "Fw 311 L Chicharra 11 Rulemanes",
+		"price": 342200,
+		"thumbnail": [
+			"\\img\\r4.webp"
+		],
+		"stock": 22,
+		"status": "True",
+		"category": "reeles"
+	},
+	{
+		"id": 9,
+		"code": "newCode-9",
+		"title": "Señuelo Caster Blade",
+		"description": "Medida: 7,2cm Peso: 16gr / Lipless Hundimiento C04",
+		"price": "12500",
+		"thumbnail": [
+			"\\img\\s1.webp"
+		],
+		"stock": "15",
+		"status": "true",
+		"category": "señuelos"
+	},
+	{
+		"id": 10,
+		"code": "new-code-00001",
+		"title": "Nuevo Producto",
+		"description": "Este es un producto nuevo de prueba",
+		"price": "150000",
+		"thumbnail": [
+			"\\img\\no-thumbnail.jpg"
+		],
+		"stock": "10",
+		"status": true,
+		"category": "nueva"
+	},
+	{
+		"id": 11,
+		"code": "0000111Ultima",
+		"title": "Ultima Prueba",
+		"description": "Ultima prueba del dia",
+		"price": "14000",
+		"thumbnail": [
+			"\\img\\021-04970.jpg"
+		],
+		"stock": "1000",
+		"status": true,
+		"category": "ultima"
+	}
+]

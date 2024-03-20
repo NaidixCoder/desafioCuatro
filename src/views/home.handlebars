@@ -1,0 +1,25 @@
+
+<h1 class="title">productos</h1>
+
+<section class="card-content">
+    {{#if products}}
+        {{#each products}}
+            <article class="card">
+                <h2 class="card__title">{{this.title}}</h2>
+                <div class="card__img">
+                    {{#if this.thumbnail}}
+                        <img src="{{this.thumbnail}}" alt="{{this.title}}" />
+                    {{else}}
+                        <img src="/img/no-image.jpg" alt="No hay imagen" />
+                    {{/if}}
+                </div>
+                <div class="card__info">
+                    <p>${{this.price}}</p>
+                    <p class="card__description">{{this.description}}</p>
+                </div>
+            </article>
+        {{/each}}
+    {{else}}
+    <h1 class="">¡Ops! Aun no hay productos agregados</h1>
+    {{/if}}
+</section>
