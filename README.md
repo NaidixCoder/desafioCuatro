@@ -1,11 +1,11 @@
-# Desafio N° 3 - Curso Backend CoderHouse.
+# Desafio N° 4 - Curso Backend CoderHouse.
 
 ## Instalación
 
 ### 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/NaidixCoder/preEntregaUno
+git chttps://github.com/NaidixCoder/desafioCuatro
 ```
 
 ### 2. Inicia Node
@@ -17,7 +17,7 @@ npm init -y
 ### 3. Instala dependencias
 
 ```bash
-npm install express
+npm install
 ```
 
 ```bash
